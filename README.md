@@ -2,6 +2,9 @@
 
 一个基于 GitHub Pages 的纯静态个人站点模板（HTML + CSS + 原生 JS，无需构建工具）。
 
+- **线上地址**：https://shixin0816.github.io/physics/
+- **源码仓库**：https://github.com/shixin0816/physics
+
 ## 目录结构
 
 ```
